@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ]
+  ],
+  "legacy_uid": "20ebe6e4-e6fc-1fb3-1c11-acc795e93f0e",
+  "instructors": {
+    "content": [
+      "43b38f70-466c-5091-9907-6ce4d954c6a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d7079058-9572-6c87-ea62-29f8ee1faa0f",
+    "website": "7-343-single-molecule-imaging-capturing-nanoscale-cellular-machines-in-action-fall-2021"
+  },
+  "course_title": "Single-Molecule Imaging: Capturing Nanoscale Cellular Machines in Action",
+  "hide_download": true,
+  "course_description": "Did you know that we have approximately 2 meters of DNA packed in our cells, which are less than 10 \u03bcm diameter? Or that to replicate DNA it is copied at a rate of 70,000 basepairs per second by a cellular apparatus that coordinates at least six different enzymes? Or that microtubules form greater than 1 meter long \u201crailways\u201d upon which molecular machines transport cargo within nerve cells? In this course, we will explore how single-molecule imaging techniques capture the mega-cellular machines working in real-time.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.343",
+  "course_image_thumbnail": {
+    "content": "e38057a2-7122-3fa7-2845-2f407fc28b40",
+    "website": "7-343-single-molecule-imaging-capturing-nanoscale-cellular-machines-in-action-fall-2021"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "2edbfa95-36ca-4915-b5eb-01976101cbaf",
+  "site_short_id": "7.343-fall-2021",
+  "site_url_path": "courses/7-343-single-molecule-imaging-capturing-nanoscale-cellular-machines-in-action-fall-2021",
+  "title": "Course Metadata"
+}
