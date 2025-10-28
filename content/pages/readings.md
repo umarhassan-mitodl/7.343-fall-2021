@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains a list of journal articles that the students were
   expected to read before each class meeting.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -65,9 +63,9 @@ Single Optical Traps
 {{< tdopen >}}
 
 
-Block, S.M., C.L. Asbury, J.W. Shaevitz, et al., 2003. [Probing the Kinesin Reaction Cycle with a 2D Optical Force Clamp](https://www.pnas.org/content/100/5/2351). Proceedings of the National Academy of Sciences 100 (5), 2351–2356.
+Block, S.M., C.L. Asbury, J.W. Shaevitz, et al., 2003. {{% resource_link "8828751c-5718-4a8f-b3e1-d112732a1db6" "Probing the Kinesin Reaction Cycle with a 2D Optical Force Clamp" %}}. Proceedings of the National Academy of Sciences 100 (5), 2351–2356.
 
-Sheinin, M., M. Li, M. Soltani, et al., 2013. [Torque Modulates Nucleosome Stability and Facilitates H2A/H2B Dimer Loss](https://www.nature.com/articles/ncomms3579). Nature Communications 4 (1), 2579.
+Sheinin, M., M. Li, M. Soltani, et al., 2013. {{% resource_link "0bfb219c-6427-456a-9ead-0a975e92ad13" "Torque Modulates Nucleosome Stability and Facilitates H2A/H2B Dimer Loss" %}}. Nature Communications 4 (1), 2579.
 
 
 {{< tdclose >}}
@@ -89,9 +87,9 @@ Magnetic Tweezers
 {{< tdopen >}}
 
 
-Dulin, D., T. Cui, J. Cnossen, et al., 2015. [High Spatiotemporal Resolution Magnetic Tweezers for Single-Molecule Force Spectroscopy: Calibration and Applications for DNA Dynamics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656881/). Biophysical Journal 109 (10), 2113–2125.
+Dulin, D., T. Cui, J. Cnossen, et al., 2015. {{% resource_link "fbe8266c-d8ac-44a3-ab44-aa9c9320fea4" "High Spatiotemporal Resolution Magnetic Tweezers for Single-Molecule Force Spectroscopy: Calibration and Applications for DNA Dynamics" %}}. Biophysical Journal 109 (10), 2113–2125.
 
-van der Heijden, T., J. van Noort, H. van Leest, et al., 2005. [Torque-Limited RecA Polymerization on dsDNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1075924/). Nucleic Acids Research 33 (7), 2099–2105.
+van der Heijden, T., J. van Noort, H. van Leest, et al., 2005. {{% resource_link "dd33b2ed-0c66-4167-b363-753408a6b56d" "Torque-Limited RecA Polymerization on dsDNA" %}}. Nucleic Acids Research 33 (7), 2099–2105.
 
 
 {{< tdclose >}}
@@ -113,9 +111,9 @@ Double Optical Traps
 {{< tdopen >}}
 
 
-Lisica, A., C. Engel, M. Jahnel, et al., 2016. [Mechanisms of Backtrack Recovery by RNA Polymerases I and II](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4801279/). Proceedings of the National Academy of Sciences 113 (11), 2946–2951.
+Lisica, A., C. Engel, M. Jahnel, et al., 2016. {{% resource_link "a60426ce-adca-496b-b936-df73f0587610" "Mechanisms of Backtrack Recovery by RNA Polymerases I and II" %}}. Proceedings of the National Academy of Sciences 113 (11), 2946–2951.
 
-Gardini, L., S.M. Heissler, C. Arbore, et al., 2018. [Dissecting Myosin-5B Mechanosensitivity and Calcium Regulation at the Single Molecule Level](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6054644/). Nature Communications 9 (1), 2844–2844.
+Gardini, L., S.M. Heissler, C. Arbore, et al., 2018. {{% resource_link "e9cb8ceb-bce8-48f0-9685-1b96e80ae270" "Dissecting Myosin-5B Mechanosensitivity and Calcium Regulation at the Single Molecule Level" %}}. Nature Communications 9 (1), 2844–2844.
 
 
 {{< tdclose >}}
@@ -137,9 +135,9 @@ Total Internal Reflection Fluorescence Microscopy (TIRFM)
 {{< tdopen >}}
 
 
-Yardimci, H., A.B. Loveland, S. Habuchi, et al., 2010. [Uncoupling of Sister Replisomes During Eukaryotic DNA Replication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3004751/). Molecular Cell 40 (5), 834–840.
+Yardimci, H., A.B. Loveland, S. Habuchi, et al., 2010. {{% resource_link "009b80b4-10c0-4a30-9803-c6b710f586a2" "Uncoupling of Sister Replisomes During Eukaryotic DNA Replication" %}}. Molecular Cell 40 (5), 834–840.
 
-Thawani, A., M.J. Rale, N. Coudray, et al., 2020. [The Transition State and Regulation of γ-TuRC-Mediated Microtubule Nucleation Revealed by Single Molecule Microscopy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7338055/). eLife 9, e54253.
+Thawani, A., M.J. Rale, N. Coudray, et al., 2020. {{% resource_link "3c02af9b-570f-436f-ad9c-34ee4fe4c26d" "The Transition State and Regulation of γ-TuRC-Mediated Microtubule Nucleation Revealed by Single Molecule Microscopy" %}}. eLife 9, e54253.
 
 
 {{< tdclose >}}
@@ -161,9 +159,9 @@ Single-Molecule FRET (smFRET)
 {{< tdopen >}}
 
 
-Duchi, D., D.L.V. Bauer, L. Fernandez, et al., 2016. [RNA Polymerase Pausing during Initial Transcription](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5031556/). Molecular Cell 63 (6), 939–950.
+Duchi, D., D.L.V. Bauer, L. Fernandez, et al., 2016. {{% resource_link "8e1759cb-d04e-4017-8252-9678774584f0" "RNA Polymerase Pausing during Initial Transcription" %}}. Molecular Cell 63 (6), 939–950.
 
-Ticau, S., L.J. Friedman, N.A. Ivica, et al., 2015. [Single-Molecule Studies of Origin Licensing Reveal Mechanisms Ensuring Bidirectional Helicase Loading](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4445235/). Cell 161 (3), 513–525.
+Ticau, S., L.J. Friedman, N.A. Ivica, et al., 2015. {{% resource_link "4c003d49-4795-40a4-aa9c-57220589c7a3" "Single-Molecule Studies of Origin Licensing Reveal Mechanisms Ensuring Bidirectional Helicase Loading" %}}. Cell 161 (3), 513–525.
 
 
 {{< tdclose >}}
@@ -185,9 +183,9 @@ DNA Curtains and Extensions by Flow
 {{< tdopen >}}
 
 
-Kim, J.H., and R.G. Larson, 2007. [Single-Molecule Analysis of 1D Diffusion and Transcription Elongation of T7 RNA Polymerase along Individual Stretched DNA Molecules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1920259/). Nucleic Acids Research 35 (11) 3848–3858.
+Kim, J.H., and R.G. Larson, 2007. {{% resource_link "d1eb3032-469f-4820-a547-1313ad6ea3f5" "Single-Molecule Analysis of 1D Diffusion and Transcription Elongation of T7 RNA Polymerase along Individual Stretched DNA Molecules" %}}. Nucleic Acids Research 35 (11) 3848–3858.
 
-Kong, M., E.E. Cutts, D. Pan, et al., 2020. [Human Condensin I and II Drive Extensive ATP-Dependent Compaction of Nucleosome-Bound DNA](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7335352/). Molecular Cell 79 (1), 99–114.
+Kong, M., E.E. Cutts, D. Pan, et al., 2020. {{% resource_link "35ca9eef-3123-4ee8-a8be-7dbd471c8a95" "Human Condensin I and II Drive Extensive ATP-Dependent Compaction of Nucleosome-Bound DNA" %}}. Molecular Cell 79 (1), 99–114.
 
 
 {{< tdclose >}}
@@ -209,9 +207,9 @@ Fleezers
 {{< tdopen >}}
 
 
-Hilario, J., I. Amitani, R.J. Baskin, et al., 2009. [Direct Imaging of Human Rad51 Nucleoprotein Dynamics on Individual DNA Molecules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2613362/). Proceedings of the National Academy of Sciences 106 (2), 361–368.
+Hilario, J., I. Amitani, R.J. Baskin, et al., 2009. {{% resource_link "f0b43621-78e1-46ea-b17d-4fb4e18d32b0" "Direct Imaging of Human Rad51 Nucleoprotein Dynamics on Individual DNA Molecules" %}}. Proceedings of the National Academy of Sciences 106 (2), 361–368.
 
-van Mameren, J., M. Modesti, R. Kanaar, et al., 2009. [Counting RAD51 Proteins Disassembling from Nucleoprotein Filaments under Tension](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3871861/). Nature 457 (7230), 745–748.
+van Mameren, J., M. Modesti, R. Kanaar, et al., 2009. {{% resource_link "032bb105-dd3e-453a-be37-263cf38aa112" "Counting RAD51 Proteins Disassembling from Nucleoprotein Filaments under Tension" %}}. Nature 457 (7230), 745–748.
 
 
 {{< tdclose >}}
@@ -233,9 +231,9 @@ Fleezers 2.0: Dual traps combined with confocal microscopy
 {{< tdopen >}}
 
 
-Desai, V. P., F. Frank, A. Lee, et al., 2019. [Co-temporal Force and Fluorescence Measurements Reveal a Ribosomal Gear Shift Mechanism of Translation Regulation by Structured mRNAs](https://www.sciencedirect.com/science/article/pii/S1097276519305544). Molecular Cell 75 (5), 1007–1019.
+Desai, V. P., F. Frank, A. Lee, et al., 2019. {{% resource_link "f48d1efe-a089-48db-8135-311a9ba60b3d" "Co-temporal Force and Fluorescence Measurements Reveal a Ribosomal Gear Shift Mechanism of Translation Regulation by Structured mRNAs" %}}. Molecular Cell 75 (5), 1007–1019.
 
-Wasserman, M.R., G.D. Schauer, M.E. O’Donnell, et al., 2019. [Replication Fork Activation is Enabled by a Single-Stranded DNA Gate in CMG Helicase](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6705614/). Cell 178 (3), 600–611.
+Wasserman, M.R., G.D. Schauer, M.E. O’Donnell, et al., 2019. {{% resource_link "ffb2b511-00e1-4d57-adcd-2d5bedd5ca9a" "Replication Fork Activation is Enabled by a Single-Stranded DNA Gate in CMG Helicase" %}}. Cell 178 (3), 600–611.
 
 
 {{< tdclose >}}
@@ -257,9 +255,9 @@ Optical Traps Meet Both Confocal and FRET
 {{< tdopen >}}
 
 
-Ngo, T. T., Q. Zhang, R. Zhou, et al., 2015. [Asymmetric Unwrapping of Nucleosomes under Tension Directed by DNA Local Flexibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4409768/). Cell 160 (6), 1135–1144.
+Ngo, T. T., Q. Zhang, R. Zhou, et al., 2015. {{% resource_link "20595fe4-8a4d-4012-979a-80df94b4a841" "Asymmetric Unwrapping of Nucleosomes under Tension Directed by DNA Local Flexibility" %}}. Cell 160 (6), 1135–1144.
 
-Suksombat, S., R. Khafizov, A.G. Kozlov, et al., 2015. [Structural Dynamics of _E. coli_ Single-Stranded DNA Binding Protein Reveal DNA Wrapping and Unwrapping Pathways](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4582245/). eLife 4, e08193.
+Suksombat, S., R. Khafizov, A.G. Kozlov, et al., 2015. {{% resource_link "7cb57377-fb04-4d16-8e63-cdde48440061" "Structural Dynamics of _E. coli_ Single-Stranded DNA Binding Protein Reveal DNA Wrapping and Unwrapping Pathways" %}}. eLife 4, e08193.
 
 
 {{< tdclose >}}
@@ -281,9 +279,9 @@ STORM
 {{< tdopen >}}
 
 
-Xu, K., G. Zhong, and X. Zhuang, 2012. [Actin, Spectrin, and Associated Proteins Form a Periodic Cytoskeletal Structure in Axons](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3815867/). Science 339 (6118), 452–456.
+Xu, K., G. Zhong, and X. Zhuang, 2012. {{% resource_link "84b53841-2f66-4033-aa91-29622ce634d1" "Actin, Spectrin, and Associated Proteins Form a Periodic Cytoskeletal Structure in Axons" %}}. Science 339 (6118), 452–456.
 
-Bálint, Š., V.I. Vilanova, A.S. Alvarez, et al., 2013. [Correlative Live-Cell and Superresolution Microscopy Reveals Cargo Transport Dynamics at Microtubule Intersections](https://www.pnas.org/content/110/9/3375). Proceedings of the National Academy of Sciences 110 (9), 3375–3380.
+Bálint, Š., V.I. Vilanova, A.S. Alvarez, et al., 2013. {{% resource_link "6751a353-86c5-4083-938f-68595ad01569" "Correlative Live-Cell and Superresolution Microscopy Reveals Cargo Transport Dynamics at Microtubule Intersections" %}}. Proceedings of the National Academy of Sciences 110 (9), 3375–3380.
 
 
 {{< tdclose >}}
@@ -305,9 +303,9 @@ PALM and STED
 {{< tdopen >}}
 
 
-Rossier, O., V. Octeau, J.B. Sibarita, et al., 2012. [Integrins β1 and β3 Exhibit Distinct Dynamic Nanoscale Organizations inside Focal Adhesions](https://pubmed.ncbi.nlm.nih.gov/23023225/). Nature Cell Biology 14 (10), 1057–1067.
+Rossier, O., V. Octeau, J.B. Sibarita, et al., 2012. {{% resource_link "281644cb-c9af-4380-a230-8ea76b166dab" "Integrins β1 and β3 Exhibit Distinct Dynamic Nanoscale Organizations inside Focal Adhesions" %}}. Nature Cell Biology 14 (10), 1057–1067.
 
-Hein, B. K.I. Willig, and S.W. Hell, 2008. [Stimulated Emission Depletion (STED) Nanoscopy of a Fluorescent Protein-Labeled Organelle inside a Living Cell](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2538451/). Proceedings of the National Academy of Sciences 105 (38), 14271–14276.
+Hein, B. K.I. Willig, and S.W. Hell, 2008. {{% resource_link "767df4db-bd04-406d-a0e8-fc7f220d4b85" "Stimulated Emission Depletion (STED) Nanoscopy of a Fluorescent Protein-Labeled Organelle inside a Living Cell" %}}. Proceedings of the National Academy of Sciences 105 (38), 14271–14276.
 
 
 {{< tdclose >}}
@@ -329,7 +327,7 @@ SIM and SMLM
 {{< tdopen >}}
 
 
-Fiolka, R., L. Shao, E.H. Rego, et al., 2012. [Time-Lapse Two-Color 3D Imaging of Live Cells with Doubled Resolution Using Structured Illumination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3325651/). Proceedings of the National Academy of Sciences 109 (14), 5311–5315.
+Fiolka, R., L. Shao, E.H. Rego, et al., 2012. {{% resource_link "45dcab86-6861-4751-b608-9e04a39c1e34" "Time-Lapse Two-Color 3D Imaging of Live Cells with Doubled Resolution Using Structured Illumination" %}}. Proceedings of the National Academy of Sciences 109 (14), 5311–5315.
 
 
 {{< tdclose >}}

@@ -33,8 +33,7 @@
     "website": "7-343-single-molecule-imaging-capturing-nanoscale-cellular-machines-in-action-fall-2021"
   },
   "course_title": "Single-Molecule Imaging: Capturing Nanoscale Cellular Machines in Action",
-  "hide_download": true,
-  "course_description": "Did you know that we have approximately 2 meters of DNA packed in our cells, which are less than 10 \u03bcm diameter? Or that to replicate DNA it is copied at a rate of 70,000 basepairs per second by a cellular apparatus that coordinates at least six different enzymes? Or that microtubules form greater than 1 meter long \u201crailways\u201d upon which molecular machines transport cargo within nerve cells? In this course, we will explore how single-molecule imaging techniques capture the mega-cellular machines working in real-time.\n\nThis course is one of many [Advanced Undergraduate Seminars](https://biology.mit.edu/undergraduate/current-students/subject-offerings/advanced-undergraduate-seminars/) offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "course_description": "Did you know that we have approximately 2 meters of DNA packed in our cells, which are less than 10 \u03bcm diameter? Or that to replicate DNA it is copied at a rate of 70,000 basepairs per second by a cellular apparatus that coordinates at least six different enzymes? Or that microtubules form greater than 1 meter long \u201crailways\u201d upon which molecular machines transport cargo within nerve cells? In this course, we will explore how single-molecule imaging techniques capture the mega-cellular machines working in real-time.\n\nThis course is one of many {{% resource_link \"a8d43f00-37b3-4c69-9b98-ab54310f8f83\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
   "department_numbers": [
     "7"
   ],
@@ -44,7 +43,6 @@
     "content": "e38057a2-7122-3fa7-2845-2f407fc28b40",
     "website": "7-343-single-molecule-imaging-capturing-nanoscale-cellular-machines-in-action-fall-2021"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments",
     "Presentation Assignments"
